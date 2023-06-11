@@ -1,4 +1,4 @@
-# Comando utiles de Git
+# GIT Commands
 
 1.  git init                        "Invoca todos los archivos requeridos por GIT para funcionar correctamente"
 2.  git add .                       "Toma todos los cambios antes del commit y los encola en 'Stage'"
