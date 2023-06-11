@@ -12,4 +12,4 @@
 10. git merge 'Branch name'         "Mezclar informaciones entre ramas"
 11. git branch -d 'Branch name'     "Eliminar rama"
 12. git push                        "Enviar campios a repositorio en la nube"
-13. git commit -am                  ""
+13. git commit -am                  "git add and git commit -m in the same way"
