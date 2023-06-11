@@ -1,7 +1,10 @@
 # Comando utiles de Git
 
-1- git init
-2- git add . 'Toma todos los cambios antes del commit'
-3- git reset 'Descarta los cambios antes del commit'
-4- git commit -m 'Comentario'
-5- git checkout -- . 
+1- git init                     "Invoca todos los archivos requeridos por GIT para funcionar correctamente"
+2- git add .                    "Toma todos los cambios antes del commit y los encola en 'Stage'"
+3- git reset                    "Descarta los cambios antes del commit"
+4- git commit -m 'Descripcion'  "Realiza el commit"
+5- git checkout -- .            "Revierte al estado del ultimo commit a todo el proyecto"
+6- git log                      "Historial de commits"
+7- git commit --amend           "Modificar el ultimo commit"
+8- git checkout -b rama-heroes  "Crear rama"
